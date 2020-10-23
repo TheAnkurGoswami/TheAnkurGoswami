@@ -1,5 +1,5 @@
 <p align="center">
-## Connect with me:
+<h2> Connect with me:</h2>
 <a href="https://www.linkedin.com/in/the-ankur-goswami/"><img alt="Ankur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/the_ankur_goswami/"><img alt="Ankur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="mailto:ankurgoswami1401@gmail.com"><img alt="Ankur | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
