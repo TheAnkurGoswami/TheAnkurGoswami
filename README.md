@@ -9,5 +9,5 @@
 </p>
 <hr>
 
-<img align="left" alt="Ankur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true" />
+<img align="center" alt="Ankur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true" />
 
