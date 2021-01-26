@@ -9,5 +9,4 @@
 </p>
 <hr>
 
-<img align="center" alt="Ankur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true" />
-
+![Ankur's Github Stats](https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&theme=dark)
