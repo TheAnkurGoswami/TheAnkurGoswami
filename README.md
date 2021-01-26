@@ -8,5 +8,6 @@
   <a href="https://t.me/TheAnkurGoswami"><img alt="Ankur | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 </p>
 <hr>
-
-![Ankur's Github Stats](https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&theme=dark)
+<p align="center">
+<img alt="Ankur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&theme=dark">
+</p>
