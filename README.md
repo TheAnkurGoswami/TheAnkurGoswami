@@ -1,6 +1,6 @@
 
 <p align="center">
-  <b><font size="30">Connect with me:</font></b>
+  <b><font size="60">Connect with me:</font></b>
   <br><br>
   <a href="https://www.linkedin.com/in/the-ankur-goswami/"><img alt="Ankur | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
   <a href="https://www.instagram.com/the_ankur_goswami/"><img alt="Ankur | Instagram" width="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
