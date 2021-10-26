@@ -11,7 +11,10 @@
    <a href="https://www.hackerearth.com/@Ankur1401"><img alt="Ankur | Hackerearth" width="40px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/hackerearth.svg" /></a>
 </p>
 <hr>
-<!--<p align="center">
+
+<!-- <p align="center">
 <img alt="Ankur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=gotham">
-</p>-->
+</p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theankurgoswami&hide_border=true&theme=onedark">
+ -->
 
