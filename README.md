@@ -24,12 +24,3 @@
 <!--  <p align="center">
  <img alt="Ankur's Language Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAnkurGoswami&layout=compact&theme=gotham&hide_border=true">
 </p> -->
-
-<table>
-
-  <tr>
-    <td><img width=100% src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=gotham"></td>
-    <td><img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnkurGoswami&hide=jupyter%20notebook&layout=compact&theme=gotham&hide_border=true"></td>
-    <td><img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAnkurGoswami&layout=compact&theme=gotham&hide_border=true"></td>
-  </tr>
- </table>
