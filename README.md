@@ -13,8 +13,23 @@
 <hr>
 
 <!-- <p align="center">
-<img alt="Ankur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=gotham">
-</p>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theankurgoswami&hide_border=true&theme=onedark">
- -->
+<img width=45% alt="Ankur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=gotham">
+</p> -->
 
+<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theankurgoswami&hide_border=true&theme=onedark"> -->
+
+<!--  <p align="center">
+ <img width=38% alt="Ankur's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnkurGoswami&hide=jupyter%20notebook&layout=compact&theme=gotham&hide_border=true">
+</p> -->
+<!--  <p align="center">
+ <img alt="Ankur's Language Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAnkurGoswami&layout=compact&theme=gotham&hide_border=true">
+</p> -->
+
+<table>
+
+  <tr>
+    <td><img width=100% src="https://github-readme-stats.vercel.app/api?username=TheAnkurGoswami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs,issues&theme=gotham"></td>
+    <td><img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnkurGoswami&hide=jupyter%20notebook&layout=compact&theme=gotham&hide_border=true"></td>
+    <td><img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=TheAnkurGoswami&layout=compact&theme=gotham&hide_border=true"></td>
+  </tr>
+ </table>
